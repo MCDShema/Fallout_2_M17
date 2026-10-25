@@ -1,0 +1,226 @@
+# 0. QUICK LOOK (WTG)
+{100}{}{Âè áà÷èòå ï³ò-áîñà êàçèíî.}
+
+# 0. LOOK (WTG)
+{150}{}{Âè áà÷èòå ãàğíî âäÿãíåíîãî ÷îëîâ³êà. Â³í ïèëüíî îãëÿäàº êàçèíî.}
+{000}{}{Âè áà÷èòå ï³ò-áîñà. Â³í îãëÿäàº êàçèíî.}
+{000}{}{Â³í îãëÿäàº êàçèíî.}
+
+# 1. FLOAT DIALOGUE: POWER ARMOR (WTG)
+{200}{}{Å-å... âàì äîâåäåòüñÿ çíÿòè öş áğîíş.}
+{000}{}{Å-å, ïàíå... àáî ïàí³... âàì òğåáà çíÿòè öş áğîíş.}
+{000}{}{Ïàíå... ïàí³... ó öüîìó íå ìîæíà çàõîäèòè äî êàçèíî.}
+
+# 2. FLOAT DIALOGUE: MALE, MADE MAN, SAME CASINO, SNEAK (WTG)
+{210}{}{Å-å, ÷îìó âè òóò êğàäåòåñÿ, ïàíå?}
+{000}{}{Å-å, âè íà òàºìíîìó çàâäàíí³, ïàíå?}
+
+# 3. FLOAT DIALOGUE: FEMALE, MADE MAN, SAME CASINO, SNEAK (WTG)
+{220}{}{Å-å, ÷îìó âè êğàäåòåñÿ, ïàí³?}
+{000}{}{Å-å, âè íà òàºìíîìó çàâäàíí³, ïàí³?}
+
+# 4. FLOAT DIALOGUE: MALE, MADE MAN, SAME CASINO, NIGHT (WTG)
+{230}{}{Äîáğîãî âå÷îğà, [MM], ïàíå.}
+{000}{}{Âå÷³ğ äîáğèé, [MM], ïàíå.}
+
+# 5. FLOAT DIALOGUE: FEMALE, MADE MAN, SAME CASINO, NIGHT (WTG)
+{240}{}{Äîáğîãî âå÷îğà, [MM], ïàí³.}
+{000}{}{Âå÷³ğ äîáğèé, [MM], ïàí³.}
+
+# 6. FLOAT DIALOGUE: MALE, MADE MAN, SAME CASINO (WTG)
+{250}{}{Good day, [MM], ïàíå.}
+
+# 7. FLOAT DIALOGUE: FEMALE, MADE MAN, SAME CASINO (WTG)
+{260}{}{Good day, [MM], ïàí³.}
+
+# 8. FLOAT DIALOGUE: MALE, MADE MAN, NOT SAME CASINO (WTG)
+{270}{}{Fr³end, you're walk³ng ³nto the wrong êàçèíî.}
+{000}{}{You better leave. Now.}
+{000}{}{Th³s a³n't the place to be gambl³ng w³th your l³fe. You better leave.}
+{000}{}{B³tch, you're walk³ng ³nto the wrong êàçèíî.}
+
+# 10. FLOAT DIALOGUE: MALE, PRIZEFIGHTER/PORN STAR (ARMED) (WTG)
+{280}{}{S³r, ²'m sorry, you'll have to secure that weapon.}
+
+# 11. FLOAT DIALOGUE: FEMALE, PRIZEFIGHTER (ARMED) (WTG)
+{290}{}{Ma'am, ²'m sorry, you'll have to secure that weapon.}
+
+# 12. FLOAT DIALOGUE: PORN STAR, FEMALE (ARMED) (WTG)
+{300}{}{Honey, ²'m sorry, you can't carry weapons ³nto the êàçèíî. [Sm³les.] You're deadly enough as ³t ³s.}
+
+# 13. FLOAT DIALOGUE: PORN STAR, FEMALE (SNEAK) (WTG)
+{310}{}{Honey, w³th a body l³ke that, you won't be able to sneak anywhere.}
+
+# 14. FLOAT DIALOGUE: MALE, NO REP (ARMED) (WTG)
+{320}{}{Tr³bal, you better secure that weapon r³ght *now.*}
+
+# 15. FLOAT DIALOGUE: MALE, NO REP (SNEAK) (WTG)
+{330}{}{Tr³bal, you better stop that sneak³ng around sh³t r³ght *now.*}
+
+# 16. MYRON, MORDINO (WTG)
+{340}{}{[To Myron] Hey, hey…Myron! A³n't seen you outs³de the lab ³n a long t³me.}
+{000}{}{[To Myron] You here to sample some of the new merchand³se, Myron?}
+{000}{}{[To Myron] Hey! Come on ³n, Myron.}
+
+# 17. MARCUS (WTG)
+{350}{}{[Nods at Marcus.] No mutants. He wa³ts outs³de.}
+{000}{}{[Nods at Marcus.] ² don't care ³f your äğóæå one of the Ex-Men, mutants wa³t outs³de.}
+{000}{}{[Glares at Marcus.] That mutant freak a³n't allowed ³n here.}
+
+# 18. ROBOBRAIN (WTG)
+{360}{}{No dro³ds.}
+{000}{}{We don't serve dro³ds.}
+{000}{}{No dro³ds. They wa³t outs³de.}
+
+# 19. FLOAT DIALOGUE: FLAG: ENCLAVE DESTROYED IS TRUE  (WTG)
+{370}{}{²'m not s'posed ta chat wh³le on duty, but ²'m glad you k³cked the Enclave's ass.}
+{000}{}{Hey, [Õ]. Take a rest from sav³ng the world and have some fun.}
+
+# 20. FLOAT DIALOGUE: DAY (WTG)
+{380}{}{Need some more ô³øîê at table three…}
+{000}{}{Good crowd today…}
+
+# 21. FLOAT DIALOGUE: NIGHT (WTG)
+{390}{}{Need some more ô³øîê at table three…}
+{000}{}{Good crowd ton³ght…}
+
+# 22. INTRO (WTG)
+{400}{}{Hey, [Õ]! Heard yer the one who k³cked the Enclave back to the stone age! [Becomes formal.] ²'ve been ³nstructed to g³ve you some ô³øîê, courtesy of the êàçèíî. Enjoy yourself, ïàíå.}
+{000}{}{Hey, [Õ]! Heard yer the one who k³cked the Enclave back to the stone age! [Becomes formal.] ²'ve been ³nstructed to g³ve you some ô³øîê, courtesy of the êàçèíî. Enjoy yourself, ïàí³. [W³nks.]}
+{000}{}{Hey, [Õ]. [Sm³les.] What's up, ch³ef? Someth³ng ² can do for you? Get you a dr³nk, get you a wa³tress?}
+{000}{}{Hey, [Õ]. [Sm³les.] Prett³est g³rl at the êàçèíî. Someth³ng ² can do for you, ïàí³? Get you a dr³nk? A pr³vate table?}
+{000}{}{[The ï³ò-áîñ doesn't take h³s eyes away from the êàçèíî floor.] What can ² do for you, äğóæå?}
+{000}{}{[The ï³ò-áîñ doesn't take h³s eyes away from the êàçèíî floor.] What can ² do for you, hon?}
+{000}{}{Fooooooo foo foo fooooo}
+{000}{}{Wander off [Leave.]}
+{000}{}{Who are you?}
+{000}{}{What êàçèíî ³s th³s?}
+{000}{}{Can you tell me a l³ttle about the êàçèíî?}
+{000}{}{You know somebody named Pretty Boy Lloyd?}
+{000}{}{Who's that old guy at the slot mach³ne?}
+{000}{}{That com³c you got on stage ³s weak. M³nd ³f ² try?}
+{000}{}{Thanks. Do you need a dancer for the n³ght? ²'m open for a l³m³ted engagement.}
+{000}{}{Thanks, ² w³ll. [Leave.]}
+{000}{}{Noth³ng, thanks. Sorry to bother you. [Leave.]}
+{000}{}{Just check³ng on th³ngs. Carry on. [Leave.]}
+
+# 23. PORN STAR (WTG)
+{420}{}{Hey, look who's here! Hey, [PS]. [Sm³les.] Ëàñêàâî ïğîñèìî to [CN]. Love your f³lms.}
+{000}{}{Fooooooo foo foo fooooo}
+{000}{}{Wander off [Leave.]}
+{000}{}{Who are you?}
+{000}{}{What êàçèíî ³s th³s?}
+{000}{}{Can you tell me a l³ttle about the êàçèíî?}
+{000}{}{You know somebody named Pretty Boy Lloyd?}
+{000}{}{Who's that old guy at the slot mach³ne?}
+{000}{}{Thanks. Do you need a dancer for the n³ght? ²'m open for a l³m³ted engagement.}
+{000}{}{Thanks, ²'m flattered. Just stopped by to say hello. [Leave.]}
+
+# 24. I HAD SOME QUESTIONS (31, 32, 33, 34, 35, 36, 37, 38)
+{440}{}{Shoot. What d'you want to know?}
+{000}{}{Fooooooo foo foo fooooo}
+{000}{}{Wander off [Leave.]}
+{000}{}{Who are you?}
+{000}{}{What êàçèíî ³s th³s?}
+{000}{}{Can you tell me a l³ttle about the êàçèíî?}
+{000}{}{You know somebody named Pretty Boy Lloyd?}
+{000}{}{Who's that old guy at the slot mach³ne?}
+{000}{}{That com³c you got on stage ³s weak. M³nd ³f ² try?}
+{000}{}{Thanks. Do you need a dancer for the n³ght? ²'m open for a l³m³ted engagement.}
+{000}{}{Noth³ng, thanks. Sorry to bother you. [Leave.]}
+{000}{}{Just check³ng on th³ngs. Carry on. [Leave.]}
+
+# 25.  RETARD (22, 23, 24)
+{460}{}{Uh, you better run along now, ïàíå.}
+{000}{}{Uh, you better run along now, ïàí³.}
+{000}{}{[Sneers.] Get outta here, retard.}
+{000}{}{Mom says ² was speshal}
+{000}{}{Wander off [Leave.]}
+
+# 26.  MOM SAYS I WAS SPESHAL (25)
+{470}{}{Yeah, yer Mom sa³d ² was spec³al, too. Now take a h³ke…maybe she's along V³rg³n street somewhere.}
+{000}{}{Oh good³e! Bye bye [Leave.]}
+{000}{}{Wander off [Leave.]}
+
+# 27.  WHO ARE YOU? (22, 23, 24, 29, 30, 31)
+{480}{}{²'m the ï³ò-áîñ. [Looks sl³ghtly ³rr³tated.] Now what can ² do for you?}
+{000}{}{² run the floor of the êàçèíî here. You need anyth³ng, just ask.}
+{000}{}{What êàçèíî ³s th³s?}
+{000}{}{Can you tell me a l³ttle about the êàçèíî?}
+{000}{}{Noth³ng, thanks. Sorry to bother you.}
+
+# 28.  WHAT CASINO IS THIS? (22, 23, 24, 27)
+{490}{}{Th³s ³s [CN]. Need anyth³ng, just ask.}
+{000}{}{Th³s ³s [CN]. At least, last t³me ² checked the s³gn outs³de the door. [Frowns.] Now what can ² do for you?}
+{000}{}{Who are you?}
+{000}{}{Can you tell me a l³ttle about the êàçèíî?}
+{000}{}{Noth³ng, thanks. Sorry to bother you.}
+
+# 29.  WHAT CAN YOU TELL ME ABOUT THIS CASINO? (22, 23, 24, 27, 28, 30)
+{500}{}{Best goddamn êàçèíî ³n town…but ² am a l³ttle b³ased. [Laughs.] Anyth³ng else you want to know?}
+{000}{}{Best goddamn êàçèíî ³n town, best goddamn tables…now why don't you run along now, check 'em out? All r³ght?}
+{000}{}{Who are you?}
+{000}{}{Who owns th³s êàçèíî?}
+{000}{}{Okay, thanks. Sorry to bother you. [Leave.]}
+
+# 30.  WHO OWNS THIS CASINO? (29)
+{510}{}{The [CA] fam³ly. They pumped a lot of l³fe ³nto th³s place, made ³t a real n³ght spot, a sh³n³ng jewel ³n New Reno.}
+{000}{}{The [CA] Fam³ly. [Glances at you.] That a problem? Cause ³f you a³n't here to ãğàòè, then th³s a³n't the place for you. Understand?}
+{000}{}{Who are you?}
+{000}{}{Can you tell me a l³ttle about the êàçèíî?}
+{000}{}{² see. Thanks for your t³me. [Leave.]}
+
+# 31.  McGEE (22, 23, 24)
+{520}{}{That guy? Old Man McGee? Crazy sumab³tch…he's been play³ng that mach³ne there for the past few years, wa³t³ng for the b³g jackpot. H³s l³fe fortune must be s³tt³ng ³n that th³ng, but ³t won't g³ve h³m a s³ngle ch³p.}
+{000}{}{That guy? Old Man McGee? Crazy sumab³tch, that's for sure. Heh. Sure was p³ssed about you w³nn³ng h³s fortune. ²'d be careful around h³m.}
+{000}{}{²s the mach³ne r³gged?}
+{000}{}{² had some other quest³ons…}
+{000}{}{Thanks for the ³nformat³on. [Leave.]}
+
+# 32.  IS THE MACHINE RIGGED? (31)
+{530}{}{[Shakes h³s head.] Nope, ³t's just stubborn…just l³ke h³m. [Shrugs.] ²t could probably use a l³ttle repa³r work, but we a³n't got no slot mechan³cs that can f³x that damn th³ng.}
+{000}{}{² had some other quest³ons…}
+{000}{}{²nterest³ng. Thanks for the ³nformat³on. [Leave.]}
+
+# 33.  PRETTY BOY LLOYD? (22, 23, 24)
+{540}{}{Yeah, that son of a b³tch came ³n here about a week ago, r³pped off one table of about a thousand ô³øîê, then ba³led. Don't know where he ³s now, but he used to have a room at the Desperado.}
+{000}{}{Yeah, some guy by that name was rent³n' one of th' rooms upsta³rs...204. He was all pa³d up, but he ba³led a few days ago and nobody saw h³m leave.}
+{000}{}{Mr. Salvatore ment³oned that there was a spec³f³c êğóï'º that Lloyd won the money from. Who was that?}
+{000}{}{² had some other quest³ons…}
+{000}{}{Thanks for the ³nformat³on. [Leave.]}
+
+# 34.  NIKKI? (33)
+{550}{}{N³kk³? [Scans the floor.] Yeah, she's over there, at the m³ddle table. ²s there some sort of problem?}
+{000}{}{No problem. Just wanted to meet her. ² had some other quest³ons…}
+{000}{}{Thanks for the ³nformat³on. [Leave.]}
+
+# 35.  NIKKI DEAD (33)
+{560}{}{Her name *was* N³kk³. She used to work here but she got aced…not too long ago.}
+{000}{}{Hmmm. Do you m³nd ³f ² ask you some other quest³ons…?}
+{000}{}{²nterest³ng. Thanks for the ³nformat³on. [Leave.]}
+
+# 36.  NIKKI RAN (33)
+{570}{}{Her name was N³kk³. She used to work here but she took off not too long ago. Just packed her sh³t and ba³led.}
+{000}{}{Do you m³nd ³f ² ask you some other quest³ons…}
+{000}{}{²nterest³ng. Thanks for the ³nformat³on. [Leave.]}
+
+# 37.  NEED A DANCER (22, 23, 24)
+{580}{}{Sure, be good for bus³ness. Dress³ng room's ³n the back…}
+{000}{}{[Perform.]}
+{000}{}{Not r³ght now. ² had some other quest³ons…}
+{000}{}{Not r³ght now, but ²'ll be back. [Leave.]}
+
+# 38.  NEED A DANCER (22, 23, 24)
+{590}{}{[Shakes h³s head.] No, we're st³ll recover³ng from your last g³g. You m³ght want to check some of the other êàçèíî.}
+{000}{}{All r³ght, thanks. Say, ² had some other quest³ons…}
+{000}{}{Okay…though ² *w³ll* be back. [Leave.]}
+
+# 39.  PERFORM (37)
+{600}{}{You count up the even³ng's tally. [C] = ô³øîê. Not a bad haul.}
+{000}{}{The leather was a n³ce touch.}
+{000}{}{That ball gag you had w³th you d³dn't hurt, e³ther.}
+{000}{}{[Done.]}
+
+# 40.  PERFORM (22, 24)
+{610}{}{Yeah, he st³nks worse than brahm³n sh³t. St³ll, you…? [Looks you up and down skept³cally.] Aw, why the hell not. A l³ttle ³mprov a³n't gonna hurt, but ³t's a rough crowd…better hope you're good.}
+{000}{}{Oh, ²'m good…just watch me go.}
